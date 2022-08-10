@@ -7,9 +7,12 @@ Full Stack Software Developer
 * 🌍  I'm based in New York and Atlanta
 * 🖥️  Check out my [portfolio site](http://ericlantz.tech)
 * ✉️  You can contact me at [ericmlantz@gmail.com](mailto:ericmlantz@gmail.com)
-* 🚀  I'm currently working on a swiping based restaurant matching app called [Dinr](http://deployment.d1ha25xg2gtgyh.amplifyapp.com/)
-* 🧠  I'm learning React Native
+* 🚀  I'm finishing up on a swiping based restaurant matching app called [Dinr](http://deployment.d1ha25xg2gtgyh.amplifyapp.com/)
+* 🧠  I'm currently working my way through React Native
 
+<p>Open link in a new window or tab: <a href="http://ericlantz.tech" target="mylink">Visit W3Schools!</a></p>
+
+<iframe name=mylink></iframe>
 ### Skills
 
 <p align="left">
