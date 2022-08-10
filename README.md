@@ -4,11 +4,11 @@ Hi, My name is Eric Lantz ![](https://user-images.githubusercontent.com/18350557
 Full Stack Software Developer
 -----------------------------
 
-* 🌍  New York City & Atlanta Based
-* 🖥️  [Portfolio Site](http://ericlantz.tech)
-* ✉️  Contact Me: [ericmlantz@gmail.com](mailto:ericmlantz@gmail.com)
-* 🚀  Currently developing [Dinr](http://deployment.d1ha25xg2gtgyh.amplifyapp.com/), a swipe-based matching app for restaurants
-* 🧠  Starting to learn React Native
+* 🌍  I'm based in New York and Atlanta
+* 🖥️  Check out my [portfolio site](http://ericlantz.tech)
+* ✉️  You can contact me at [ericmlantz@gmail.com](mailto:ericmlantz@gmail.com)
+* 🚀  I'm currently working on a swiping based restaurant matching app called [Dinr](http://deployment.d1ha25xg2gtgyh.amplifyapp.com/)
+* 🧠  I'm learning React Native
 
 ### Skills
 
