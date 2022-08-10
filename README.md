@@ -10,9 +10,6 @@ Full Stack Software Developer
 * 🚀  I'm finishing up on a swiping based restaurant matching app called [Dinr](http://deployment.d1ha25xg2gtgyh.amplifyapp.com/)
 * 🧠  I'm currently working my way through React Native
 
-<p>Open link in a new window or tab: <a href="http://ericlantz.tech" target="mylink">Visit W3Schools!</a></p>
-
-<iframe name=mylink></iframe>
 ### Skills
 
 <p align="left">
