@@ -5,10 +5,9 @@ Full Stack Software Developer
 -----------------------------
 
 * 🌍  I'm based in New York and Atlanta
-* 🖥️  Check out my [portfolio site](http://ericlantz.tech)
+* 🖥️  Check out my [portfolio site](http://ericlan.tz)
 * ✉️  You can contact me at [ericmlantz@gmail.com](mailto:ericmlantz@gmail.com)
-* 🚀  I'm finishing up on a swiping based restaurant matching app called [Dinr](http://deployment.d1ha25xg2gtgyh.amplifyapp.com/)
-* 🧠  I'm currently working my way through React Native
+* 🧠  I'm currently working my way through Java as I get through my Master of Computer Science at PACE University!
 
 ### Skills
 
