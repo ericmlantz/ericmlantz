@@ -4,7 +4,7 @@ Hi, My name is Eric Lantz ![](https://user-images.githubusercontent.com/18350557
 Full Stack Software Developer
 -----------------------------
 
-* 🌍  I'm based in New York and Atlanta
+* 🌍  I'm based in New York City
 * 🖥️  Check out my [portfolio site](http://ericlan.tz)
 * ✉️  You can contact me at [ericmlantz@gmail.com](mailto:ericmlantz@gmail.com)
 * 🧠  I'm currently working my way through Java as I work on my Master of Computer Science at PACE University!
